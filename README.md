@@ -45,7 +45,8 @@ Welcome to the next evolution of streaming! Take your community "virtual" in a h
  # Based Runner Game(WIP)
   This is a 3D mobile infinite runner game with a very unique art style and great animations
   
-  ![image](https://github.com/user-attachments/assets/cfce2b5d-9f6d-4bd3-908d-db4746afe1ab)
+  ![image](https://github.com/user-attachments/assets/507df340-08bb-4044-91a2-b0edcbdb39c9)
+
 
  - **Github**: [Based Runner Game](https://github.com/N-a-n-0/Based-Runner-Game)
 
