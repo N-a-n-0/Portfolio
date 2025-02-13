@@ -20,8 +20,8 @@
   
  ![lF2QS6](https://github.com/user-attachments/assets/27993308-b4f2-42cd-8549-4f76a7319cde)
 
-)
- - **Itch.io Link**: [Orbi]([https://n-a-n-0.itch.io/orbi](https://n-a-n-0.itch.io/brick-breaker-gameprototype))
+
+ - **Itch.io Link**: [Orbi](https://n-a-n-0.itch.io/brick-breaker-gameprototype)
 
 
 
