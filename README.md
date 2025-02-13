@@ -42,13 +42,19 @@ Welcome to the next evolution of streaming! Take your community "virtual" in a h
  - **Itch.io Link**: [The Net VR](https://thenetvr.itch.io/the-net-vr)
 
 
- # Based Runner Game(WIP)
+ #  Runner Game(WIP)
   This is a 3D mobile infinite runner game with a very unique art style and great animations
   
   ![image](https://github.com/user-attachments/assets/507df340-08bb-4044-91a2-b0edcbdb39c9)
 
 
  - **Github**: [Based Runner Game](https://github.com/N-a-n-0/Based-Runner-Game)
+
+ # Tycoon Video Gamee
+  This is a 3D Tycoon Roblox game with a straight forward goal of generating income through getting upgrades and collecting coins around the map
+
+![image](https://github.com/user-attachments/assets/27f1c330-670e-4777-adfe-2d56aa4ebeef)
+
 
 
 
