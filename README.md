@@ -7,6 +7,7 @@
 
   # Pac-Man Remake
   This is a simple recreation of the hit arcade game Pac-Man
+  
   ![+mcX5E](https://github.com/user-attachments/assets/b9f144d4-3fc0-4511-8ac3-ed0a9f1c1214)
 
  - **Itch.io Link**: [Pac-Man Remake](https://n-a-n-0.itch.io/pac-man-remake)
