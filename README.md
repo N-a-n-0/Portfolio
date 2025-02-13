@@ -31,5 +31,15 @@
 
  - **Itch.io Link**: [Brick Breaker Game](https://n-a-n-0.itch.io/brick-breaker-gameprototype)
 
+# The Net VR
+ Welcome to the next evolution of streaming! Take your community "virtual" in a hosted, cinema-themed 3D space!
+  
+ ![MxEIum](https://github.com/user-attachments/assets/876b9db9-2ebc-4767-b552-2271d61c1b04)
+
+
+
+ - **Itch.io Link**: [The Net VR](https://thenetvr.itch.io/the-net-vr)
+
+
 
 
