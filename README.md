@@ -5,6 +5,13 @@
   ![iEgFuN](https://github.com/user-attachments/assets/3a7ce9a5-c877-4303-b526-e6ff9b755ba5)
  - **Itch.io Link**: [Clouds N' Paws](https://n-a-n-0.itch.io/c)
 
+  # Pac-Man Remake
+  This is a simple recreation of the hit arcade game Pac-Man
+ ![+mcX5E](https://github.com/user-attachments/assets/b9f144d4-3fc0-4511-8ac3-ed0a9f1c1214)
+
+ - **Itch.io Link**: [Pac-Man Remake](https://n-a-n-0.itch.io/pac-man-remake)
+
+
   
   # Orbi
   This a 2D physics based music game where you can play many different levels and even play a sandbox freeplay mode where you can freely play 
@@ -21,7 +28,7 @@
  ![lF2QS6](https://github.com/user-attachments/assets/27993308-b4f2-42cd-8549-4f76a7319cde)
 
 
- - **Itch.io Link**: [Orbi](https://n-a-n-0.itch.io/brick-breaker-gameprototype)
+ - **Itch.io Link**: [Brick Breaker Game](https://n-a-n-0.itch.io/brick-breaker-gameprototype)
 
 
 
