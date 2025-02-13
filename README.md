@@ -32,7 +32,8 @@
  - **Itch.io Link**: [Brick Breaker Game](https://n-a-n-0.itch.io/brick-breaker-gameprototype)
 
 # The Net VR
- Welcome to the next evolution of streaming! Take your community "virtual" in a hosted, cinema-themed 3D space!
+ 3D theater project using twitch API,
+Welcome to the next evolution of streaming! Take your community "virtual" in a hosted, cinema-themed 3D space!
   
  ![MxEIum](https://github.com/user-attachments/assets/876b9db9-2ebc-4767-b552-2271d61c1b04)
 
@@ -40,6 +41,13 @@
 
  - **Itch.io Link**: [The Net VR](https://thenetvr.itch.io/the-net-vr)
 
+
+ # Based Runner Game(WIP)
+  This is a 3D mobile infinite runner game with a very unique art style and great animations
+  
+  ![image](https://github.com/user-attachments/assets/cfce2b5d-9f6d-4bd3-908d-db4746afe1ab)
+
+ - **Github**: [Based Runner Game](https://github.com/N-a-n-0/Based-Runner-Game)
 
 
 
